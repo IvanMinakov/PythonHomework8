@@ -28,3 +28,4 @@ def play_game(number_of_candies, player2_type):
 
 
 play_game(100, "bot")
+"sdfmksdmfsd"
