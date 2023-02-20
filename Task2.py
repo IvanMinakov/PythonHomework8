@@ -6,4 +6,4 @@ def print_operation_table(operation, num_rows=6, num_columns=6):
 def multiply(x, y):
     return x * y
 
-print_operation_table(multiply, num_rows=5, num_columns=5)
+print_operation_table(multiply, num_rows=6, num_columns=6)
